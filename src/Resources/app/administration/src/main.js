@@ -1,0 +1,1 @@
+import './module/sw-category/view/sw-category-detail-products-override';

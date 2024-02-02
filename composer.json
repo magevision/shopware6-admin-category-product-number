@@ -1,0 +1,38 @@
+{
+  "name": "magevision/shopware6-admin-category-product-number",
+  "description": "Admin Category Product Number for Shopware 6",
+  "version": "1.0.0",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "MageVision",
+      "role": "Manufacturer"
+    }
+  ],
+  "type": "shopware-platform-plugin",
+  "autoload": {
+    "psr-4": {
+      "MageVision\\AdminCategoryProductNumber\\": "src/"
+    }
+  },
+  "require": {
+    "shopware/core": "~6.5.0"
+  },
+  "extra": {
+    "shopware-plugin-class": "MageVision\\AdminCategoryProductNumber\\MageVisionAdminCategoryProductNumber",
+    "plugin-icon": "src/Resources/config/plugin.png",
+    "copyright": "(c) by MageVision",
+    "label": {
+      "en-GB": "MageVision Admin Category Product Number",
+      "de-DE": "MageVision Produkt Nummer in Kategorie Admin"
+    },
+    "description": {
+      "en-GB": "Admin Category Product Number",
+      "de-DE": "Produkt Nummer in Kategorie Admin"
+    },
+    "manufacturerLink": {
+      "en-GB": "https://www.magevision.com/",
+      "de-DE": "https://www.magevision.com/"
+    }
+  }
+}
