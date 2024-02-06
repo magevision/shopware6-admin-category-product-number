@@ -2,7 +2,7 @@
   "name": "magevision/shopware6-admin-category-product-number",
   "description": "Admin Category Product Number for Shopware 6",
   "version": "1.0.1",
-  "license": "proprietary",
+  "license": "MIT",
   "authors": [
     {
       "name": "MageVision",
