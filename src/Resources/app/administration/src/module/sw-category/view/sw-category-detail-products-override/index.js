@@ -15,6 +15,10 @@ Component.override('sw-category-detail-products', {
             });
 
             return columns;
-        }
+        },
+
+        productNumberColumn() {
+            return 'column-productNumber';
+        },
     }
 });
