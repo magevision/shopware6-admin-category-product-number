@@ -1,0 +1,23 @@
+{
+  "base": "/bundles/magevisionadmincategoryproductnumber/administration/",
+  "entryPoints": {
+    "mage-vision-admin-category-product-number": {
+      "css": [],
+      "dynamic": [],
+      "js": [
+        "/bundles/magevisionadmincategoryproductnumber/administration/assets/mage-vision-admin-category-product-number-DjtWEKl8.js"
+      ],
+      "legacy": false,
+      "preload": []
+    }
+  },
+  "legacy": false,
+  "metadatas": {},
+  "version": [
+    "7.1.0",
+    7,
+    1,
+    0
+  ],
+  "viteServer": null
+}
